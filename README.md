@@ -47,9 +47,16 @@ Aqui estão algumas capturas de tela que ilustram a estrutura e a lógica do wor
 ---
 
 ### Detalhe do Nó de Validação e Envio de E-mail
-![Detalhe do Nó de Validação Salarial e Envio de E-mail](foto2.png)
+![Detalhe do Nó de Validação Salarial e Envio de E-mail](./img/validation.png)
 *Um close-up em uma parte específica do workflow, destacando a lógica de validação de dados (como a pretensão salarial) e o nó de envio de e-mail via Gmail.*
 
+### Nó de filtro pretensão salárial para agendar uma entrevista 
+![Detalhe do Nó do Filtro de Presentensão Salarial](./img/filter.png)
+*Um close-up em uma parte específica do workflow, destacando a lógica do filtro para o agendamento da entrevista.*
+
+### Nó de Agendamento para entrevista e emprego para o cargo
+![Detalhe do Nó de Agendamento para entrevista](./img/calendar.png)
+*Um close-up em uma parte específica do workflow, destacando o agendamento da entrevista com Google Calendar.*
 ---
 
 ## 💡 Desafios e Aprendizados
