@@ -41,7 +41,7 @@ Aqui estão algumas capturas de tela que ilustram a estrutura e a lógica do wor
 ---
 
 ### Visão Geral do Workflow no n8n
-![Visão Geral do Workflow n8n](foto1.png)
+![Visão Geral do Workflow n8n](./img/workflow.png)
 *Uma visão macro do fluxo de automação de candidaturas, mostrando a interconexão das etapas.*
 
 ---
